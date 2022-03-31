@@ -20,9 +20,6 @@ p {
   margin: 0 85px;
 }
 
-
-
-
 .one {
   background-color: #7B879D;
   height: 1440px;
@@ -37,22 +34,7 @@ p {
   left: 720px;
   top: 370px;
 }
-/**
-.three {
-  background-color: #1F3251;
-  height: 400px;
-  width: 450px;
-  border-radius: 5%;
-  position: absolute;
-  left: 25px;
-  top: 25px;
 
-
-
-  padding-top: 420px;
-  padding-left: 50px;
-}
-*/
 .qrcode-img {
   width: 90%;
   border-radius: 5%;
